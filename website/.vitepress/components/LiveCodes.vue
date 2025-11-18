@@ -9,7 +9,7 @@ import type { Config, EmbedOptions, Playground } from 'livecodes'
 import { PlaygroundProps } from './PlaygroundProps'
 import { examples } from '../../docs/examples'
 
-const playgroundUrl = 'https://ripple.livecodes.pages.dev'
+const playgroundUrl = 'https://8e217b52.livecodes.pages.dev/'
 const apiUrl = 'https://data.jsdelivr.com/v1/packages/npm/ripple'
 
 type UserSettings = { vim?: boolean; ai?: boolean; fontSize?: number }
